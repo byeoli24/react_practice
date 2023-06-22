@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+
+
+#wrap {
+ display: inline-block;
+ font-family: 'Noto Sans KR', sans-serif;
+  }
+
+.todoCre {
+    height: 20px;
+    border: 2px solid royalblue;
+    background-color: #fff;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    border-radius: 8px;
+    color: goldenrod;
+  
+  }
+
+.todoCre:focus-visible  {
+    outline: none;
+    border: 2px solid goldenrod;
+    font-weight:500;
+  
+  }
